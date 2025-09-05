@@ -1,174 +1,48 @@
-# Hiredly: An AI-Powered Job Portal
+# 🌟 Hiredly: An AI-Powered Job Portal  
 
-Hiredly is a cutting-edge job portal designed to revolutionize the recruitment process for both job seekers and companies. This platform integrates a sophisticated **microservices architecture** to provide a comprehensive and modern hiring experience.
+Hiredly is a **next-generation job portal** built to revolutionize the recruitment pipeline for both **job seekers** and **companies**.  
 
-The core of Hiredly is its unique **AI-based interview simulator** and a **robust technical test engine**. These features allow job seekers to prepare for and demonstrate their skills in a realistic, automated environment, while providing recruiters with deep, data-driven insights into a candidate's abilities.
-
----
-
-## 🚀 Key Features
-
-### 🔹 For Job Seekers
-- **Interactive AI Interviews**: Engage in mock interviews tailored to your specific tech stack. Receive instant, objective feedback to improve your performance.
-- **Technical Aptitude Tests**: Take automated coding challenges and technical quizzes to prove your skills.
-- **Seamless Job Application**: A clean, intuitive interface to browse, filter, and apply for jobs that match your profile.
-
-### 🔹 For Recruiters
-- **AI-Powered Candidate Screening**: Go beyond resumes and get a true measure of a candidate's technical and communication skills.
-- **Data-Driven Insights**: A dashboard provides detailed analytics on interview performance and test scores.
-- **Efficient Job Management**: A simple platform to post and manage job listings, streamlining the hiring funnel.
+Powered by a **modern microservices architecture**, Hiredly introduces an **AI-based interview simulator** and a **robust technical test engine** that:  
+- Help job seekers **practice & showcase** their skills.  
+- Provide recruiters **data-driven insights** beyond resumes.  
 
 ---
 
-## 🛠 Technology Stack
+## 🚀 Key Features  
 
-### Backend
-- **Spring Boot & Spring Cloud**: For building a powerful, scalable microservices architecture.
-- **Apache Kafka**: Ensures decoupled communication between services through an event-driven model.
-- **Redis**: Provides high-speed caching to optimize application performance.
+### 👨‍💻 For Job Seekers  
+- **Interactive AI Interviews** – Mock interviews tailored to your tech stack with instant, objective feedback.  
+- **Technical Aptitude Tests** – Solve coding challenges & technical quizzes to validate skills.  
+- **Seamless Job Application** – Browse, filter, and apply with ease.  
 
-### Frontend
-- **React**: A dynamic, single-page application for a smooth user experience.
-- **Redux**: Manages the complex state of the application for predictable data flow.
-
----
-
-## ⚙️ Getting Started
-
-Follow these steps to run the project locally:
-
-### 1. Clone the Repository
-```bash
-git clone [repository_url]
-cd hiredly
-# Hiredly: An AI-Powered Job Portal
-
-Hiredly is a cutting-edge job portal designed to revolutionize the recruitment process for both job seekers and companies. This platform integrates a sophisticated **microservices architecture** to provide a comprehensive and modern hiring experience.
-
-The core of Hiredly is its unique **AI-based interview simulator** and a **robust technical test engine**. These features allow job seekers to prepare for and demonstrate their skills in a realistic, automated environment, while providing recruiters with deep, data-driven insights into a candidate's abilities.
+### 🏢 For Recruiters  
+- **AI-Powered Candidate Screening** – Assess real skills beyond resumes.  
+- **Data-Driven Analytics** – Dashboards with detailed performance metrics.  
+- **Efficient Job Management** – Post and manage listings in a streamlined way.  
 
 ---
 
-## 🚀 Key Features
+## 🛠 Technology Stack  
 
-### 🔹 For Job Seekers
-- **Interactive AI Interviews**: Engage in mock interviews tailored to your specific tech stack. Receive instant, objective feedback to improve your performance.
-- **Technical Aptitude Tests**: Take automated coding challenges and technical quizzes to prove your skills.
-- **Seamless Job Application**: A clean, intuitive interface to browse, filter, and apply for jobs that match your profile.
+### 🔧 Backend  
+- **Spring Boot & Spring Cloud** – Scalable microservices architecture.  
+- **Apache Kafka** – Event-driven communication.  
+- **Redis** – High-speed caching layer.  
 
-### 🔹 For Recruiters
-- **AI-Powered Candidate Screening**: Go beyond resumes and get a true measure of a candidate's technical and communication skills.
-- **Data-Driven Insights**: A dashboard provides detailed analytics on interview performance and test scores.
-- **Efficient Job Management**: A simple platform to post and manage job listings, streamlining the hiring funnel.
-
----
-
-## 🛠 Technology Stack
-
-### Backend
-- **Spring Boot & Spring Cloud**: For building a powerful, scalable microservices architecture.
-- **Apache Kafka**: Ensures decoupled communication between services through an event-driven model.
-- **Redis**: Provides high-speed caching to optimize application performance.
-
-### Frontend
-- **React**: A dynamic, single-page application for a smooth user experience.
-- **Redux**: Manages the complex state of the application for predictable data flow.
+### 🎨 Frontend  
+- **React** – Dynamic single-page application.  
+- **Redux** – Predictable state management.  
 
 ---
 
-## ⚙️ Getting Started
-
-Follow these steps to run the project locally:
-
-### 1. Clone the Repository
-```bash
-git clone [repository_url]
-cd hiredly
-# Hiredly: An AI-Powered Job Portal
-
-Hiredly is a cutting-edge job portal designed to revolutionize the recruitment process for both job seekers and companies. This platform integrates a sophisticated **microservices architecture** to provide a comprehensive and modern hiring experience.
-
-The core of Hiredly is its unique **AI-based interview simulator** and a **robust technical test engine**. These features allow job seekers to prepare for and demonstrate their skills in a realistic, automated environment, while providing recruiters with deep, data-driven insights into a candidate's abilities.
-
----
-
-## 🚀 Key Features
-
-### 🔹 For Job Seekers
-- **Interactive AI Interviews**: Engage in mock interviews tailored to your specific tech stack. Receive instant, objective feedback to improve your performance.
-- **Technical Aptitude Tests**: Take automated coding challenges and technical quizzes to prove your skills.
-- **Seamless Job Application**: A clean, intuitive interface to browse, filter, and apply for jobs that match your profile.
-
-### 🔹 For Recruiters
-- **AI-Powered Candidate Screening**: Go beyond resumes and get a true measure of a candidate's technical and communication skills.
-- **Data-Driven Insights**: A dashboard provides detailed analytics on interview performance and test scores.
-- **Efficient Job Management**: A simple platform to post and manage job listings, streamlining the hiring funnel.
-
----
-
-## 🛠 Technology Stack
-
-### Backend
-- **Spring Boot & Spring Cloud**: For building a powerful, scalable microservices architecture.
-- **Apache Kafka**: Ensures decoupled communication between services through an event-driven model.
-- **Redis**: Provides high-speed caching to optimize application performance.
-
-### Frontend
-- **React**: A dynamic, single-page application for a smooth user experience.
-- **Redux**: Manages the complex state of the application for predictable data flow.
-
----
-
-## ⚙️ Getting Started
-
-Follow these steps to run the project locally:
-
-### 1. Clone the Repository
-```bash
-git clone [repository_url]
-cd hiredly
-# Hiredly: An AI-Powered Job Portal
-
-Hiredly is a cutting-edge job portal designed to revolutionize the recruitment process for both job seekers and companies. This platform integrates a sophisticated **microservices architecture** to provide a comprehensive and modern hiring experience.
-
-The core of Hiredly is its unique **AI-based interview simulator** and a **robust technical test engine**. These features allow job seekers to prepare for and demonstrate their skills in a realistic, automated environment, while providing recruiters with deep, data-driven insights into a candidate's abilities.
-
----
-
-## 🚀 Key Features
-
-### 🔹 For Job Seekers
-- **Interactive AI Interviews**: Engage in mock interviews tailored to your specific tech stack. Receive instant, objective feedback to improve your performance.
-- **Technical Aptitude Tests**: Take automated coding challenges and technical quizzes to prove your skills.
-- **Seamless Job Application**: A clean, intuitive interface to browse, filter, and apply for jobs that match your profile.
-
-### 🔹 For Recruiters
-- **AI-Powered Candidate Screening**: Go beyond resumes and get a true measure of a candidate's technical and communication skills.
-- **Data-Driven Insights**: A dashboard provides detailed analytics on interview performance and test scores.
-- **Efficient Job Management**: A simple platform to post and manage job listings, streamlining the hiring funnel.
-
----
-
-## 🛠 Technology Stack
-
-### Backend
-- **Spring Boot & Spring Cloud**: For building a powerful, scalable microservices architecture.
-- **Apache Kafka**: Ensures decoupled communication between services through an event-driven model.
-- **Redis**: Provides high-speed caching to optimize application performance.
-
-### Frontend
-- **React**: A dynamic, single-page application for a smooth user experience.
-- **Redux**: Manages the complex state of the application for predictable data flow.
-
----
-
-## ⚙️ Getting Started
-
-Follow these steps to run the project locally:
+1.  **Clone the repository:**
+    ```bash
+    git clone [repository_url]
+    ```
 
 2.  **Set up the Backend:**
     ```bash
-    cd backend
+    cd Buy-Baazar
     # Configure your database and API keys in src/main/resources/application.properties
     # Build and run the Spring Boot app
     ./mvnw spring-boot:run
@@ -176,15 +50,42 @@ Follow these steps to run the project locally:
 
 3.  **Set up the Frontend:**
     ```bash
-    cd frontend
+    cd buyBaazar
     npm install
     npm run dev
     ```
 
-The application will be live at `http://localhost:5173` (Frontend) and `http://localhost:8080` (Backend).
+
+✅ The application will be available at:  
+- **Frontend:** `http://localhost:5173`  
+- **Backend API:** `http://localhost:8080`  
 
 ---
 
-### 🤝 Contributions & Roadmap
+## 📌 Roadmap  
 
-We welcome contributions! Feel free to open an issue or submit a pull request with new features or bug fixes. The roadmap includes further enhancements to the AI recommendation engine and expanded logistics features.
+- [ ] AI-based resume parser  
+- [ ] Video interview simulation  
+- [ ] Personalized job recommendations using ML models  
+- [ ] Docker + Kubernetes deployment support  
+
+---
+
+## 🤝 Contributing  
+
+We ❤️ contributions! Here’s how you can help:  
+1. Fork the repository  
+2. Create a new branch (`feature/your-feature`)  
+3. Commit your changes  
+4. Submit a PR 🚀  
+
+---
+
+## 📄 License  
+
+This project is licensed under the **MIT License** – free to use and modify.  
+
+---
+
+
+
